@@ -1,0 +1,22 @@
+[package]
+name = "practice_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "day1_hello"
+path = "entry/week1/day1_hello.rs"
+
+[[bin]]
+name = "day1_class"
+path = "entry/week1/day1_class.rs"
+
+[[bin]]
+name = "day1_vals"
+path = "entry/week1/day1_vals.rs"
+
+[[bin]]
+name = "day1_sha"
+path = "entry/week1/day1_sha.rs"
