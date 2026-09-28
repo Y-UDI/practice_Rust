@@ -28,3 +28,7 @@ path = "entry/week1/day2_if.rs"
 [[bin]]
 name = "day2_if_a"
 path = "entry/week1/day2_if_a.rs"
+
+[[bin]]
+name = "day3_match"
+path = "entry/week1/day3_match.rs"
