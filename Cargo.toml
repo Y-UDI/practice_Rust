@@ -45,3 +45,7 @@ path = "entry/week1/day5_owner.rs"
 [[bin]]
 name = "day6_borrowing"
 path = "entry/week1/day6_borrowing.rs"
+
+[[bin]]
+name = "day7_slice"
+path = "entry/week1/day7_slice.rs"
